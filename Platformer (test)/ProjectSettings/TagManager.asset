@@ -44,6 +44,9 @@ TagManager:
   - name: BackgroundImage
     uniqueID: 1181212267
     locked: 0
+  - name: CastleBackGround
+    uniqueID: 755347477
+    locked: 0
   - name: Platform
     uniqueID: 1789171939
     locked: 0
